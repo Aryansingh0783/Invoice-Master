@@ -2,7 +2,7 @@
 
 # Invoice Ninja 5
 
-Invoice Ninja Version 5 is here! We've taken the best parts of version 4 and added the most requested features to create an invoicing application like no other. Check the [Invoice Ninja YouTube Channel](https://www.youtube.com/@appinvoiceninja) to get up to speed, or try the [Demo](https://react.invoicing.co/demo) now.
+Invoice Ninja Version 5 is here! We've taken the best parts of version 4 and added the most requested features to create an invoicing application like no other.Try the [Demo](https://react.invoicing.co/demo) now.
 
 **Choose your setup**
 
@@ -10,20 +10,6 @@ Invoice Ninja Version 5 is here! We've taken the best parts of version 4 and add
 - [Self-Hosted](https://www.invoiceninja.org): For those who prefer to manage their own hosting and server infrastructure. This version gives you full control and flexibility.
 
 All Pro and Enterprise features from the hosted app are included in the source-available code. We offer a $30 per year white-label license to remove the Invoice Ninja branding from client-facing parts of the app.  
-
-#### Get social with us
-
-* [Support Forum](https://forum.invoiceninja.com)
-* [Slack](http://slack.invoiceninja.com)
-* [Discord](https://discord.gg/ZwEdtfCwXA)
-* [Instagram](https://www.instagram.com/appinvoiceninja)
-
-#### Documentation
-
-* [Invoice Ninja - API](https://api-docs.invoicing.co/)
-* [Invoice Ninja - Developer Guide](https://invoiceninja.github.io/en/developer-guide/)
-* [Invoice Ninja - User Guide](https://invoiceninja.github.io/en/user-guide/)
-* [Invoice Ninja - Self-Hosted Installation Guide](https://invoiceninja.github.io/en/self-host-installation/)
 
 ## Installation Options and Clients
 
